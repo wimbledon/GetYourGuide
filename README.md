@@ -2,6 +2,7 @@
 David's Interview - Take Home - July 2019
 
 3rd Party libraries used:
+
 **Bolts**: a collection of low-level libraries designed to make developing mobile apps easier. It makes organization of complex asynchronous code more manageable. A task is kind of like a JavaScript Promise, but available for iOS and Android.
 
 **AFNetworking**: a networking library built on top of the Foundation URL Loading System, extending the powerful high-level networking abstractions built into Cocoa. It has a modular architecture with well-designed, feature-rich APIs.
